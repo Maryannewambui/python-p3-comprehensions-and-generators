@@ -9,9 +9,6 @@ even = return_evens(numbers_0_to_20)
 
 print(even)
 
-
-
-
 def make_exclamation(sentence_list):
     exclamation_list = [sentence + "!" for sentence in sentence_list]
     return exclamation_list
